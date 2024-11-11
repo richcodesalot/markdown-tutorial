@@ -7,3 +7,7 @@
 ``` html
 <header>Example Code</header>
 ```
+
+- [x] This is a list item
+- [ ] Some can be uncompleted
+- [x] The syntax is specific 
